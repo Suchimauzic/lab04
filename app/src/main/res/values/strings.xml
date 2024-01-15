@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab04</string>
+    <string name="appleCheckBox">Apple</string>
+    <string name="strawberryCheckBox">Strawberry</string>
+    <string name="blueberryCheckBox">Blueberry</string>
+    <string name="potatoesCheckBox">Potatoes</string>
+    <string name="calcBtn">Calculate</string>
+    <string name="textChoose">Выберите способ вывода информации:</string>
+    <string name="rbChooseToast">Toast</string>
+    <string name="rbChooseDialog">Диалоговое окно</string>
+</resources>
